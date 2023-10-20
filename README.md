@@ -30,7 +30,7 @@
 
 <table align="start">
     <tr>
-        <td colspan="3"><h3 align="center">🚀 **Projects** 🚀</h3></td>
+        <td colspan="3"><h3 align="center">🚀 **Free Projects** 🚀</h3></td>
     </tr>
     <tr>
          <td>1.</td>
