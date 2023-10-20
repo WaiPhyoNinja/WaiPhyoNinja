@@ -12,10 +12,21 @@
 ![inertia](https://img.shields.io/static/v1?style=flat&logo=inertia&label=InertiaJs&message=✔️&color=red)
 ![next](https://img.shields.io/static/v1?style=flat&logo=electron&label=NextJs&message=✔️&color=blue)
 ## Touch Me
+<ul className="list-disc list-inside text-sm sm:text-base" style={{ listStyleType: 'none' }}>
+          <li>
  📫 Email: waiphyoehlaing2910@gmail.com
- 🌐 LinkIn: [LinkedIn](https://www.linkedin.com/in/waiphyo-hlaing-1b9975227)
+          </li>
+          <li>
+ 🌐 LinkIn: [LinkedIn](https://www.linkedin.com/in/waiphyo-hlaing-1b9975227)          
+          </li>
+          <li> 
  🤖 Blog: [blog](http://waiphyohlaing.com/)
+          </li>
+          <li>
  🥷 Portfolio:  [Portfolio](https://waiphyohlaing.vercel.app/)
+          </li>
+</ul>
+
 
 <table align="start">
     <tr>
