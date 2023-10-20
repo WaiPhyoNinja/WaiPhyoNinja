@@ -17,5 +17,13 @@
  🤖 Blog: [blog](http://waiphyohlaing.com/)
  🥷 Portfolio:  [Portfolio](https://waiphyohlaing.vercel.app/)
 
-
-
+<table align="center">
+    <tr>
+        <td colspan="3"><h3 align="center">🚀 **Projects** 🚀</h3></td>
+    </tr>
+    <tr>
+         <td>1.</td>
+<!--          <td><img src="https://crypto-currency-tracker-v2.netlify.app/icon-192.png" width=50 height=50></td> -->
+         <td><a target="_blank" href="https://burmese-proverbs.vercel.app/">Poet's Oasis [ Next.js Mongodb GoogleAuth]</a></td>
+     </tr>
+</table>
