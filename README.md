@@ -17,13 +17,13 @@
  📫 Email: waiphyoehlaing2910@gmail.com
           </li>
           <li>
- 🌐 LinkIn: [LinkedIn](https://www.linkedin.com/in/waiphyo-hlaing-1b9975227)          
+ 🌐 LinkIn: https://www.linkedin.com/in/waiphyo-hlaing-1b9975227          
           </li>
           <li> 
- 🤖 Blog: [blog](http://waiphyohlaing.com/)
+ 🤖 Blog: http://waiphyohlaing.com/
           </li>
           <li>
- 🥷 Portfolio:  [Portfolio](https://waiphyohlaing.vercel.app/)
+ 🥷 Portfolio:  https://waiphyohlaing.vercel.app/
           </li>
 </ul>
 
@@ -36,5 +36,7 @@
          <td>1.</td>
 <!--          <td><img src="https://crypto-currency-tracker-v2.netlify.app/icon-192.png" width=50 height=50></td> -->
          <td><a target="_blank" href="https://burmese-proverbs.vercel.app/">Poet's Oasis [ Next.js Mongodb GoogleAuth]</a></td>
+         <td>2.</td>
+         <td><a target="_blank" href="https://react-quiz-murex-two.vercel.app/">Quiz App [ React.js , Quiz API ]</a></td>
      </tr>
 </table>
