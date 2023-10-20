@@ -14,16 +14,16 @@
 ## Touch Me
 <ul className="list-disc list-inside text-sm sm:text-base" style={{ listStyleType: 'none' }}>
           <li>
- 📫 Email: waiphyoehlaing2910@gmail.com
+ 📫 Email: (waiphyoehlaing2910@gmail.com)
           </li>
           <li>
- 🌐 LinkIn: https://www.linkedin.com/in/waiphyo-hlaing-1b9975227          
+ 🌐 LinkIn: (https://www.linkedin.com/in/waiphyo-hlaing-1b9975227 )         
           </li>
           <li> 
- 🤖 Blog: http://waiphyohlaing.com/
+ 🤖 Blog: (http://waiphyohlaing.com/)
           </li>
           <li>
- 🥷 Portfolio:  https://waiphyohlaing.vercel.app/
+ 🥷 Portfolio:  (https://waiphyohlaing.vercel.app/)
           </li>
 </ul>
 
