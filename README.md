@@ -17,7 +17,7 @@
  🤖 Blog: [blog](http://waiphyohlaing.com/)
  🥷 Portfolio:  [Portfolio](https://waiphyohlaing.vercel.app/)
 
-<table align="center">
+<table align="start">
     <tr>
         <td colspan="3"><h3 align="center">🚀 **Projects** 🚀</h3></td>
     </tr>
