@@ -22,7 +22,4 @@
           <li> 
  🤖 Blog: (http://waiphyohlaing.com/)
           </li>
-          <li>
- 🥷 Portfolio:  (https://waiphyohlaing.vercel.app/)
-          </li>
 </ul>
